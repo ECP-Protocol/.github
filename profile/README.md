@@ -1,3 +1,4 @@
+```
 spec/
   1.0/
     ECP-Protocol-Overview.md
@@ -26,3 +27,4 @@ spec/
         sovereign-routing-decision.schema.json
       reporting/
         ecp-report.schema.json
+```
